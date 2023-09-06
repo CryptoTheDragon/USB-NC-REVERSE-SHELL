@@ -6,16 +6,34 @@ An Ada-fruit Usb Hid Attack/Bad USB/USB Rubber-ducky/for macOS only for now/ mak
 
 
 Board:
+
+
+
 ![images-1](https://github.com/CryptoTheDragon/USB-NC-REVERSE-SHELL/assets/102704845/90916e30-e367-43f9-8b42-c5aa0f6b2ed2)
 
+
+
+
 https://www.adafruit.com/product/3517
+
+
+
 ![download](https://github.com/CryptoTheDragon/USB-NC-REVERSE-SHELL/assets/102704845/06b81f4d-0dfa-4929-a8f8-a820cc85bb37)
 
 
 
 
 IDE:
+
+
+
+
 ![download-1](https://github.com/CryptoTheDragon/USB-NC-REVERSE-SHELL/assets/102704845/7beb5969-e17f-4965-ab21-d7795aacdb7b)
+
+
+
+
+
 Arduino.cc
 
 
